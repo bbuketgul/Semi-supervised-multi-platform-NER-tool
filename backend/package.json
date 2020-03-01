@@ -1,0 +1,11 @@
+{
+  "name": "ner-server",
+  "version": "0.1.0",
+  "description": "Ner server for web and mobile",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer Hamid Kamisli",
+  "license": "ISC"
+}
